@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  3 01:51:34 2017
-
-@author: Dimitrid
-"""
-
 import bs4 as bs
 import urllib.request
 import pandas as pd
